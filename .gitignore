@@ -163,3 +163,12 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij,java
+
+# Security & Secrets
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+venv/
+.venv/
